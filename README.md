@@ -1,4 +1,4 @@
-# tmd_studyspots
+# TMD Study Spots
 
 ## Assignment Overview
 
@@ -14,7 +14,7 @@ This is a collaborative final project for SI 364: Building Interactive Applicati
 
 ## Project Details
 
-TMD Study Spots will be under the ownership of [The Michigan Daily](https://michigandaily.com), and will be an ongoing work-in-progress. For the purposes of the final project deadline, we are looking to create a MVP (minimum viable product) and continue to add functionality/scalability accordingly. 
+TMD Study Spots will be under the ownership of [The Michigan Daily](https://michigandaily.com), and will be an ongoing project. For the purposes of the final project deadline, we are looking to create a MVP (minimum viable product) and continue to add functionality/scalability accordingly. 
 
 The basis of this project comes out of the desire to create a long-lasting product for The Michigan Daily that also adheres to our final project guidelines for SI 364. This site will function primarily as a rating system for on-campus and off-campus study spots at the University of Michigan. For users without user accounts, the ability to search for a study spot through predetermined filters will be available. User interaction with the site will be enabled through the ability to leave comments and review study spots, given that the current user is logged-in. Logged-in users will also have the ability to update photos and features of existing study spots, or create new study spot postings.
 
@@ -33,4 +33,4 @@ TBD!
 * `/admin` ==> `admin.html` (ADMIN USERS ONLY)
 * `/login` ==> `login.html`
 * `/logout` ==> `logout.html`
-Rest is TBD!
+* Rest is TBD!
